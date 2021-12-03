@@ -1,14 +1,15 @@
 # cesium-webpack-boilerplate
 
-## A modified version of the original Cesium Webpack example at https://github.com/CesiumGS/cesium-webpack-example
-## Article at: https://geek-cc.medium.com/enable-hot-reload-without-webpack-dev-server-in-webpack-5-boilerplate-76a9644a6e67
+## [Enable Hot-reload without Webpack-Dev-Server in Webpack 5 boilerplate](https://geek-cc.medium.com/enable-hot-reload-without-webpack-dev-server-in-webpack-5-boilerplate-76a9644a6e67)
+
+## A modified version of the original [Cesium Webpack example](https://github.com/CesiumGS/cesium-webpack-example)
 
 ### Running this application
 
 	npm install
 	npm start
 
-Navigate to `localhost:8080`.
+Navigate to `localhost:8080`
 
 ##### Available scripts
 
