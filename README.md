@@ -15,3 +15,5 @@ Navigate to `localhost:8080`
 
 * `npm start` - Runs a webpack build with `webpack.config.js` and starts a express server
 * `npm run build` - Runs a webpack build with `webpack.config.js`
+
+## LICENSE
