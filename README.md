@@ -17,3 +17,4 @@ Navigate to `localhost:8080`
 * `npm run build` - Runs a webpack build with `webpack.config.js`
 
 ## LICENSE
+http://www.apache.org/licenses/LICENSE-2.0
